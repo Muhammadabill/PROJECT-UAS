@@ -60,6 +60,7 @@ Tampilkan hasil:
 Hasil transaksi, yang mencakup nama pelanggan, tanggal, jumlah meja, dan total harga, ditampilkan dengan menggunakan metode ```View.display_table()```.
 ![Screenshot 2025-01-07 125459](https://github.com/user-attachments/assets/b0556fce-4fee-4017-a768-951f5bc9e8c1)
 
+
 # Contoh Output
 Tambah Table
 ```
@@ -82,4 +83,5 @@ Tampilkan Table
 ```
 ![Screenshot 2025-01-07 125747](https://github.com/user-attachments/assets/f998fb3f-5f04-464a-a909-f1b384c35ad0)
 
-
+# Teknologi Yang Digunakan
+- Pyhton: Bahasa Pemrograman utama.
